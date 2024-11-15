@@ -1,0 +1,22 @@
+{
+  "name": "codeceptjs-playwright-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "allure-commandline": "^2.30.0",
+    "codeceptjs": "^3.6.5",
+    "codeceptjs-dbhelper": "^1.2.2",
+    "playwright": "^1.47.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.2"
+  }
+}
